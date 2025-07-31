@@ -18,6 +18,9 @@ pip install aiohttp aiohttp-socks
 :: 设置代理（以 Clash 本地端口为例，使用 HTTP 代理）
 :: 设置不通过代理的地址（包括本地回环地址）
 
+
+
+
 set HTTP_PROXY=socks5://127.0.0.1:7890
 set HTTPS_PROXY=socks5://127.0.0.1:7890
 set HTTP_PROXY=http://127.0.0.1:7890
