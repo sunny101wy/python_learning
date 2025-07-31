@@ -14,7 +14,7 @@ git commit -m "common"
 
 
 3 关联  将本地仓库关联到 GitHub 远程仓库：
-git remote add origin https://github.com/sunny101wy/cpp-learning.git
+git remote add origin https://github.com/sunny101wy/python_learning
 验证关联是否成功
 git remote -v
 
